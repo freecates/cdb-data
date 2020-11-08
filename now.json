@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "cdbdata",
+  "routes": [
+    {
+      "src": "/static/.*",
+      "headers": { "access-control-allow-origin": "*" }
+    },
+    {
+      "src": "/.*",
+      "headers": { "access-control-allow-origin": "*" }
+    }
+  ]
+}
