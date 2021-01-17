@@ -1,4 +1,4 @@
-# 50 anys <span>en 50 tuits<span>
+# 50 anys <span>en 50 tuits</span>
 
 ## 1969 – 1982 
 
