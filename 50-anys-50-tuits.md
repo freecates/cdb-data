@@ -16,10 +16,10 @@
 
 ### <span>1972.</span> Apadrinament de la primera colla castellera: els Bordegassos de Vilanova. 
 
-### 1974.</span> Primera actuació al camp del FC Barcelona. 
+### <span>1974.</span> Primera actuació al camp del FC Barcelona. 
 
-### 1978. Primera sortida a l’estranger amb motiu de les Setmanes Catalanes de Berlín. La colla és una de les entitats convidades per representar Catalunya.
+### <span>1978.</span> Primera sortida a l’estranger amb motiu de les Setmanes Catalanes de Berlín. La colla és una de les entitats convidades per representar Catalunya.
 
-### 1974–1982. Millors castells: 4 de 7 amb agulla (1974), 5 de 7 (1978), 3 de 7 aixecat per sota i torre de 7 (1979), 4 de 8 carregat (1981), pilar de 6 carregat (1982). 
+### <span>1974–1982.</span> Millors castells: 4 de 7 amb agulla (1974), 5 de 7 (1978), 3 de 7 aixecat per sota i torre de 7 (1979), 4 de 8 carregat (1981), pilar de 6 carregat (1982). 
 
-### 1981. La colla intervé en el rodatge de La plaça del Diamant, una adaptació de la novel·la de Mercè Rodoreda, dirigida per Francesc Betriu, i amb Sílvia Munt i Lluís Homar.
+### <span>1981.</span> La colla intervé en el rodatge de La plaça del Diamant, una adaptació de la novel·la de Mercè Rodoreda, dirigida per Francesc Betriu, i amb Sílvia Munt i Lluís Homar.
