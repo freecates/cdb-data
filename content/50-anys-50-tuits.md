@@ -77,3 +77,31 @@
 ### <span>2006.</span> Estrena de xarxa protectora als assajos.
 
 ### <span>2006.</span> Estrena del nou local al carrer Bilbao cantonada amb el carrer Concili de Trento, al barri del Clot.
+
+## 2007 – 2019
+
+### <span>2007.</span> Eva Baró, primera cap de colla del món casteller. Es recupera el 4 de 9 amb folre, que es carrega, amb la primera dona del món casteller parant a baixos.
+
+### <span>2009.</span> Primers pilar de 7 amb folre i 4 de 8 amb agulla.
+
+### <span>2010.</span> S’instauren els 2 anys com a període per exercir de cap de colla i dels equips tècnic i de gestió.
+### <span>2010.</span> Es reprenen les actuacions de Màrtirs Street.
+
+### <span>2012–2017.</span> Un sexenni prodigiós: 66 castells de 9 i 5 de gamma extra.
+
+### <span>2013.</span> Primera tripleta màgisca: 3 i 4 de 9 amb folre i 5 de 8 (10.11.2013).
+
+### <span>2014–2015.</span> Primera tripleta vilafraquina: 3 i 4 de 9 amb folre i 4 de 8 amb agulla (2014) i primers 9 de 8 i 3 de 8 amb agulla (2015).
+
+### <span>2015.</span> La 9a Nit de Castells atorga el Premi a una trajectòria al fundador de la colla –excap i expresident– Josep Sala.
+
+### <span>2015.</span> La millor actuació de la història: 9 de 8, 3 de 9 amb folre, 4 de 9 amb folre i pilar de 6. Festa Major del Clot. Plaça de Valentí Almirall (15.11.2015).
+
+### <span>2019.</span> Primer 5 de 7 femení de la colla i del món casteller: tronc, canalla i nuclis (10.03.2014).
+
+### <span>2019.</span> Actuació amb les 19 colles en actiu apadrinades.
+
+### <span>2019.</span> La 14a Nit de Castells atorga 2 premis a la colla:
+
+- Campanya de comunicació del 50è aniversari dels Castellers de Barcelona | 50 anys fent pinya.
+- Imatge de la temporada La Xarxa–TAC12 al “5 de 7 integrat per dones”, alçat a Vilafranca del Penedès (5a diada Carme Alomà–Homenatge a les heroïnes anònimes, organitzada pels Xicots de Vilafranca).
