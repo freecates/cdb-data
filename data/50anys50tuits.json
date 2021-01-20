@@ -4,6 +4,66 @@
             "pageTitle": "Historia",
             "title": "50 anys en 50 tuits",
             "pageDescription": "Un recull de la trajectòria de la colla sintetitzat en 50 notes sobre fets i fites dels 50 anys."
+        },
+        "images": {
+            "imageGallery": [
+                {
+                    "src": "avi-porta-amb-dos-enxanetes-1971.webp",
+                    "width": "303",
+                    "height": "425",
+                    "alt": "L'avi Porta amb dos enxanetes. 1971",
+                    "imageCaption": {
+                        "title": "1971",
+                        "description": "L'avi Porta amb dos enxanetes"
+                    }
+                },
+                {
+                    "src": "pilar-de-4-integrament-femeni-alcat-a-besiers-10-03-1984.webp",
+                    "width": "302",
+                    "height": "425",
+                    "alt": "Pilar de 4 íntegrament femení alçat a Besiers",
+                    "imageCaption": {
+                        "title": "10/03/1984",
+                        "description": "Pilar de 4 íntegrament femení alçat a Besiers"
+                    }
+                },
+                {
+                    "src": "logotip-olimpic-a-la-camisa-1992.webp",
+                    "width": "176",
+                    "height": "160",
+                    "alt": "Logotip Olímpic a la Camisa. 1992",
+                    "imageCaption": {
+                        "title": "1992",
+                        "description": "Els Castellers de Barcelona és la colla interlocutora entre l'organització del Jocs i la coordinadora de colles i l'única que té el privilegi de lluir el logotip olímpic a la camisa."
+                    }
+                },
+                {
+                    "src": "pilar-bandera-olimpica-inauguracio-jocs-olimpics-1992.webp",
+                    "width": "634",
+                    "height": "411",
+                    "alt": "Pliar bandera olímpica inauguració Jocs Olímpics 1992"
+                },
+                {
+                    "src": "torre-de-7-festa-de-martirs-street.webp",
+                    "width": "302",
+                    "height": "362",
+                    "alt": "Torre de 7. Festa de Màrtirs Street",
+                    "imageCaption": {
+                        "title": "Torre de 7",
+                        "description": "Festa de Màrtirs Street"
+                    }
+                },
+                {
+                    "src": "tercos-d-un-3-de7-un-enxaneta-i-jaume-i-placa-de-sant-jaume-merce-1988.webp",
+                    "width": "302",
+                    "height": "362",
+                    "alt": "Terços d'un 3 de7, un enxaneta i Jaume I Plaça de Sant Jaume. Mercè 1988",
+                    "imageCaption": {
+                        "title": "Mercè 1988",
+                        "description": "Terços d'un 3 de7, un enxaneta i Jaume I Plaça de Sant Jaume"
+                    }
+                }
+            ]
         }
     }
 ]
