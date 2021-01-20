@@ -1,0 +1,43 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Historia",
+            "title": "Colla Castellers de Barcelona",
+            "pageDescription": "Toc d’entrada a plaça. 8 de juny de 1969. Tot comença amb el pilar de 4"
+        },
+        "images": {
+            "mainImage": {
+                "src": "pilar-de-4-1969-general.webp",
+                "width": "840",
+                "height": "432",
+                "alt": "Primer Pilar de 4. 8 de juny de 1969.Inaugiració de la base al Monument dels Castellers",
+                "imageCaption": {
+                    "title": "Pilar de 4",
+                    "description": "Acte d’inauguració de la primera fase del Monument als Castellers, obra de l’escultor Josep Cañas"
+                }
+            },
+            "imageGallery": [
+                {
+                    "src": "pilar-de-4-1969.webp",
+                    "width": "400",
+                    "height": "570",
+                    "alt": "Detall del primer Pilar de 4. 8 de juny de 1969",
+                    "imageCaption": {
+                        "title": "Pilar de 4",
+                        "description": "Nico Barquet, Josep Sala Mañé, Jaume Hill, Josep Torres, Manel Pallarès i els germans José Ricardo i Ángel Moreno"
+                    }
+                },
+                {
+                    "src": "pilar-de-4-2019.webp",
+                    "width": "400",
+                    "height": "470",
+                    "alt": "Pilar de 4 històric a la diada del 50è aniversari. El segon, Nico Barquet, és qui va fer també de segon en el pilar del 1969, just 50 anys més tard.",
+                    "imageCaption": {
+                        "title": "08/06/2019",
+                        "description": "Pilar de 4 històric a la diada del 50è aniversari. El segon, Nico Barquet, és qui va fer també de segon en el pilar del 1969, just 50 anys més tard."
+                    }
+                }
+            ]
+        }
+    }
+]
