@@ -62,6 +62,46 @@
                         "title": "Mercè 1988",
                         "description": "Terços d'un 3 de7, un enxaneta i Jaume I Plaça de Sant Jaume"
                     }
+                },
+                {
+                    "src": "primer-4-de-9-descarregat-diada-de-la-merce-1999.webp",
+                    "width": "302",
+                    "height": "496",
+                    "alt": "Primer 4 de 9 amb folre descarregat a la diada de la Mercè 1999",
+                    "imageCaption": {
+                        "title": "Mercè 1999",
+                        "description": "Primer 4 de 9 amb folre descarregat"
+                    }
+                },
+                {
+                    "src": "primer-5-de-8-descarregat-festes-de-la-merce-2003.webp",
+                    "width": "303",
+                    "height": "494",
+                    "alt": "Primer 5 de 8 descarregat a les festes de la Mercè 2003",
+                    "imageCaption": {
+                        "title": "Mercè 2003",
+                        "description": "Primer 5 de 8 descarregat"
+                    }
+                },
+                {
+                    "src": "detall-tercos-3-de-9-placa-sant-jaume.webp",
+                    "width": "633",
+                    "height": "496",
+                    "alt": "Detall terços 3 de 9 amb folre. Plaça Sant Jaume",
+                    "imageCaption": {
+                        "title": "3 de 9 amb folre",
+                        "description": "Detall terços 3 de 9 amb folre. Plaça Sant Jaume"
+                    }
+                },
+                {
+                    "src": "logotip-50-aniversari-castellers-de-barcelona-2019.webp",
+                    "width": "633",
+                    "height": "411",
+                    "alt": "Logotip 50è aniversari dels Castellers de Barcelona",
+                    "imageCaption": {
+                        "title": "50è aniversari",
+                        "description": "Logotip 50è aniversari dels Castellers de Barcelona. 2019"
+                    }
                 }
             ]
         }
