@@ -10,8 +10,8 @@ Amb la voluntat de millorar la pàgina web, Castellers de Barcelona es reserva e
 
 Castellers de Barcelona autoritza mencions als seus continguts en altres webs, sempre que no reprodueixin els continguts presents a la pàgina web de Castellers de Barcelona. En el cas de disposar d'un enllaç hipertext a alguna de les seves pàgines, l'usuari ha de saber que està entrant a la pàgina web de Castellers de Barcelona i ha de percebre en el seu navegador la seva adreça URL. Si Castellers de Barcelona detecta l'incompliment de les anteriors condicions, així com qualsevol utilització indeguda dels continguts presentats a la seva pàgina web, es reserva el dret d'exercir totes les accions civils i penals necessàries.
 
-Castellers de Barcelona
-Carrer de Bilbao, 212-214
-08018 Barcelona
-T.: 934 98 27 28
+Castellers de Barcelona<br/>
+Carrer de Bilbao, 212-214<br/>
+08018 Barcelona<br/>
+T.: 934 98 27 28<br/>
 NIF: G08822496
