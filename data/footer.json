@@ -1,0 +1,14 @@
+[
+    {
+        "routes": [
+            {
+                "name": "Avís Legal",
+                "route": "/avis-legal"
+            },
+            {
+                "name": "Política de Cookies",
+                "route": "/politica-de-cookies"
+            }
+        ]
+    }
+]
