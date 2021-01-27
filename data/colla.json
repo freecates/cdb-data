@@ -18,6 +18,18 @@
                     "route": null
                 }
             ]
+        },
+        "images": {
+            "mainImage": {
+                "src": "3d9-castellers-de-barcelona-merce-historia-2017.webp",
+                "width": "1680",
+                "height": "2521",
+                "alt": "3 de 9 amb folre dels Castellers de Barcelona. Diada de la Mercè Històrica, 2017",
+                "imageCaption": {
+                    "title": "3 de 9 amb folre",
+                    "description": "Diada de la Mercè Històrica, 2017"
+                }
+            }
         }
     }
 ]
