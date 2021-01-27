@@ -1,0 +1,15 @@
+[
+    {
+        "route":"/",
+        "name":"Castellers de Barcelona"
+    },
+    {
+        "route":"/la-colla",
+        "name":"Colla"
+    },
+    {
+        "route":"/actualitat",
+        "name":"Actualitat"
+    }
+
+]
