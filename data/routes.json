@@ -12,15 +12,15 @@
         "name":"Actualitat"
     },
     {
-        "route":null,
+        "route":"/galeria",
         "name":"Galeria"
     },
     {
-        "route":null,
-        "name":"Fest Castells"
+        "route":"/fes-castells",
+        "name":"Fes Castells"
     },
     {
-        "route":null,
+        "route":"/contacte",
         "name":"Contacte"
     }
 
