@@ -1,0 +1,21 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Colla Castellers de Barcelona",
+            "title": "La Colla Degana de la Ciutat - 1969",
+            "pageDescription": "Nascuts l’any 1969, som la colla degana de la ciutat. Assajos: dimarts, dijous i divendres."
+        },
+        "images": {
+            "mainImage": {
+                "src": "11-pilars-de-4-44-aniversari.webp",
+                "width": "1680",
+                "height": "1119",
+                "alt": "11 pilars de 4 per a la celebració del 44è Aniversari",
+                "imageCaption": {
+                    "title": "11 pilars de 4",
+                    "description": "Diada del 44è Aniversari"
+                }
+            }
+        }
+    }
+]
