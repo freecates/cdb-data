@@ -10,6 +10,18 @@
     {
         "route":"/actualitat",
         "name":"Actualitat"
+    },
+    {
+        "route":null,
+        "name":"Galeria"
+    },
+    {
+        "route":null,
+        "name":"Fest Castells"
+    },
+    {
+        "route":null,
+        "name":"Contacte"
     }
 
 ]
