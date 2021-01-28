@@ -1,0 +1,21 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Fes Castells",
+            "title": "Fes Castells amb els Castellers de Barcelona",
+            "pageDescription": "Fes Castells amb els Castellers de Barcelona, la colla degana de la ciutat. Assajos: dimarts, dijous i divendres."
+        },
+        "images": {
+            "mainImage": {
+                "src": "foto-colla-diada-historica-de-la-merce-2017.webp",
+                "width": "1680",
+                "height": "1280",
+                "alt": "La Colla",
+                "imageCaption": {
+                    "title": "La Colla",
+                    "description": "Diada Històrica de la Mercè, 2017"
+                }
+            }
+        }
+    }
+]
