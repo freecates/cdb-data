@@ -3,7 +3,7 @@
         "meta": {
             "pageTitle": "Fes Castells",
             "title": "Fes Castells amb els Castellers de Barcelona",
-            "pageDescription": "Fes Castells amb els Castellers de Barcelona, la colla degana de la ciutat. Assajos: dimarts, dijous i divendres.",
+            "pageDescription": "Fes Castells amb els Castellers de Barcelona, la colla degana de la ciutat. <span>Assajos: dimarts, dijous i divendres.</span>",
             "map": {
                 "url": "https://www.google.com/maps/dir//Castellers+de+Barcelona,+Carrer+de+Bilbao,+212-214,+08018+Barcelona/@41.4114147,2.1901397,17z/data=!4m16!1m6!3m5!1s0x12a4a32f9a1d1505:0xf6222778d81696b8!2sCastellers+de+Barcelona!8m2!3d41.4114107!4d2.1923284!4m8!1m0!1m5!1m1!1s0x12a4a32f9a1d1505:0xf6222778d81696b8!2m2!1d2.1923284!2d41.4114107!3e2",
                 "title": "Com arribar-hi"
