@@ -1,5 +1,10 @@
 [
     {
+        "meta": {
+            "pageTitle": "Vídeos",
+            "title": "Recull dels darrer vídeos del canal dels Castellers de Barcelona.",
+            "pageDescription": "Recull dels darrer vídeos del canal dels Castellers de Barcelona."
+        },
         "kind": "youtube#searchListResponse",
         "etag": "4q_Z0mthJsShu_Ogv-ACfaKZpnM",
         "nextPageToken": "CAoQAA",
@@ -14,7 +19,7 @@
                 "etag": "Jxvf-GG3h5gi8V2do92SX7ZI27g",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "6z-XSzuNY30"
+                    "videoId": "6z-XSzuNY30"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-25T18:12:26Z",
@@ -48,7 +53,7 @@
                 "etag": "gWlmJ25khyXFvhvs8JX0gviFdGI",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "vlabNbO550M"
+                    "videoId": "vlabNbO550M"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-25T18:12:22Z",
@@ -82,7 +87,7 @@
                 "etag": "iX2NCSq4kDBQVkcDfBYCgVF0OEk",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "Cp9sjP86aiQ"
+                    "videoId": "Cp9sjP86aiQ"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-24T16:17:21Z",
@@ -116,7 +121,7 @@
                 "etag": "hffn9bWZ1CFGx3pTBt1S0-X9yCs",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "TGT3KSmEJQ0"
+                    "videoId": "TGT3KSmEJQ0"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-24T07:20:18Z",
@@ -150,7 +155,7 @@
                 "etag": "I_DXtIXeor5laDXfjzXqhgk7wUM",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "hKE9i1h3LrU"
+                    "videoId": "hKE9i1h3LrU"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-23T17:29:49Z",
@@ -184,7 +189,7 @@
                 "etag": "vRQ1J-HvmaKjctcA2RFj6SvzjRA",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "tzyeL2X_g9I"
+                    "videoId": "tzyeL2X_g9I"
                 },
                 "snippet": {
                     "publishedAt": "2020-09-22T18:05:04Z",
@@ -218,7 +223,7 @@
                 "etag": "4gCR3jnXw51SsVhWkhTPCI_wDuc",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "TerGzo-gRUg"
+                    "videoId": "TerGzo-gRUg"
                 },
                 "snippet": {
                     "publishedAt": "2020-08-02T06:58:21Z",
@@ -252,7 +257,7 @@
                 "etag": "ngDiTf2sY-fYgtGgh56qfZjGDyI",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "KchHed8mdPM"
+                    "videoId": "KchHed8mdPM"
                 },
                 "snippet": {
                     "publishedAt": "2020-08-01T19:22:00Z",
@@ -286,7 +291,7 @@
                 "etag": "I_10rzkBAbZEdT5ePtFDvlTVqyM",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "4MgZegzFD9w"
+                    "videoId": "4MgZegzFD9w"
                 },
                 "snippet": {
                     "publishedAt": "2020-06-12T14:59:34Z",
@@ -320,7 +325,7 @@
                 "etag": "Iif6NhWhGImb3bOQRgqHY_6p260",
                 "id": {
                     "kind": "youtube#video",
-                    "ivideoId": "erQdA4uJbik"
+                    "videoId": "erQdA4uJbik"
                 },
                 "snippet": {
                     "publishedAt": "2020-06-12T07:00:09Z",
