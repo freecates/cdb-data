@@ -2,8 +2,8 @@
     {
         "meta": {
             "pageTitle": "Vídeos",
-            "title": "Recull dels darrer vídeos del canal dels Castellers de Barcelona.",
-            "pageDescription": "Recull dels darrer vídeos del canal dels Castellers de Barcelona."
+            "title": "Recull dels darrers vídeos del canal dels Castellers de Barcelona.",
+            "pageDescription": "Recull dels darrers vídeos del canal dels Castellers de Barcelona."
         },
         "kind": "youtube#searchListResponse",
         "etag": "4q_Z0mthJsShu_Ogv-ACfaKZpnM",

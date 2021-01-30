@@ -12,7 +12,7 @@
         "name":"Actualitat"
     },
     {
-        "route":"/galeria",
+        "route":"/videos",
         "name":"Galeria"
     },
     {
