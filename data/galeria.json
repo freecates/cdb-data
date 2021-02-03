@@ -1,0 +1,31 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Galeria",
+            "title": "Recull dels darrers vídeos i fotografies dels canals de Yotube i Flickr dels Castellers de Barcelona.",
+            "pageDescription": "Recull dels darrers vídeos i fotografies dels canals de Yotube i Flickr dels Castellers de Barcelona.",
+            "otherRoutes": [
+                {
+                    "name": "Vídeos",
+                    "route": "/videos"
+                },
+                {
+                    "name": "Fotos",
+                    "route": "/fotos"
+                }
+            ]
+        },
+        "images": {
+            "mainImage": {
+                "src": "lo-rei-jaume-casteller-de-barcelona.webp",
+                "width": "1680",
+                "height": "2424",
+                "alt": "Lo Rei Jaume, casteller de Barcelona",
+                "imageCaption": {
+                    "title": "Lo Rei Jaume, casteller de Barcelona",
+                    "description": "Salvador Pons. Diada d'aniversari 2017."
+                }
+            }
+        }
+    }
+]
