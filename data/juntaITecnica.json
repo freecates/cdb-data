@@ -1,0 +1,83 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Junta i Tècnica",
+            "title": "Junta i Tècnica 2021 dels Castellers de Barcelona",
+            "pageDescription": "Llista dels membres de la Junta i la Tècnica dels Castellers de Barcelona"
+        },
+        "images": {
+            "mainImage": {
+                "src": "junta-2021-castellers-de-barcelona.webp",
+                "width": "1680",
+                "height": "477",
+                "alt": "Membres de la Junta 2021 dels Castellers de Barcelona",
+                "imageCaption": {
+                    "title": "Junta 2021",
+                    "description": "Castellers de Barcelona"
+                }
+            }
+        },
+        "members": {
+            "boardMembers": [
+                {
+                    "name": "Ramon Gil",
+                    "title": "President"
+                },
+                {
+                    "name": "Jaume Montolio",
+                    "title": "Cap de Colla"
+                },
+                {
+                    "name": "Rafel Caballero",
+                    "title": "Vicepresidència"
+                },
+                {
+                    "name": "Xavier Pérez",
+                    "title": "Secretari"
+                },
+                {
+                    "name": "Cinta Lleixà",
+                    "title": "Tresorera"
+                },
+                {
+                    "name": "Jordi Planes",
+                    "title": "Comunicació"
+                },
+                {
+                    "name": "Carlos Maroño",
+                    "title": "Àrea Social"
+                },
+                {
+                    "name": "Gregori Samper",
+                    "title": "Equitat"
+                }
+            ],
+            "techMembers": [
+                {
+                    "name": "Jaume Montolio",
+                    "title": "Cap de Colla"
+                },
+                {
+                    "name": "Cinta Lleixà",
+                    "title": "Troncs"
+                },
+                {
+                    "name": "Carlos Maroño",
+                    "title": "Pinyes"
+                },
+                {
+                    "name": "Jorid Lleixà",
+                    "title": "Canalla"
+                },
+                {
+                    "name": null,
+                    "title": "Pilars"
+                },
+                {
+                    "name": "Andreu Solagran",
+                    "title": "Gralles i tabals"
+                }
+            ]
+        }
+    }
+]
