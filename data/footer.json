@@ -9,6 +9,51 @@
                 "name": "Política de Cookies",
                 "route": "/politica-de-cookies"
             }
+        ],
+        "supporters": [
+            {
+                "type": "Suport",
+                "list": [
+                    {
+                        "name": "Ajuntament de Barcelona",
+                        "logo": "/ajuntament-de-barcelona.webp"
+                    },
+                    {
+                        "name": "Diputació de Barcelona",
+                        "logo": "/diputacio-de-barcelona.webp"
+                    },
+                    {
+                        "name": "Generalitat de Catalunya",
+                        "logo": "/geeralitat-de-catalunya.webp"
+                    }
+                ]
+            },
+            {
+                "type": "Patrocinadors CCCC",
+                "list": [
+                    {
+                        "name": "Estella DAMM",
+                        "logo": "/estrella-damm.webp"
+                    },
+                    {
+                        "name": "Sorea",
+                        "logo": "/sorea.webp"
+                    }
+                ]
+            },
+            {
+                "type": "Reconeixements",
+                "list": [
+                    {
+                        "name": "Medalla d'Honor de la Ciutat de Barcelona",
+                        "logo": "/medalla-d-honor-de-la-ciutat-de-barcelona.webp"
+                    },
+                    {
+                        "name": "Creu de Sant Jordi de la Generalitat de Cataluya",
+                        "logo": "/creu-de-sant-jordi-de-la-generalitat-de-catalunya.webp"
+                    }
+                ]
+            }
         ]
     }
 ]
