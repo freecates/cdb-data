@@ -8,6 +8,10 @@
                 {
                     "name": "50 anys en 50 tuits",
                     "route": "/50-anys-50-tuits"
+                },
+                {
+                    "name": "Una Colla singular i pionera",
+                    "route": "/una-colla-singular-i-pionera"
                 }
             ]
         },

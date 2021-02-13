@@ -1,0 +1,19 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Historia",
+            "title": "Una Colla singular i pionera",
+            "pageDescription": "Una Colla singular i pionera. Castellers a i de Barcelona. Amateurisme i dimensió social",
+            "otherRoutes": [
+                {
+                    "name": "8 de juny de 1969",
+                    "route": "/8-de-juny-de-1969"
+                },
+                {
+                    "name": "50 anys en 50 tuits",
+                    "route": "/50-anys-50-tuits"
+                }
+            ]
+        }
+    }
+]
