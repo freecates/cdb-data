@@ -1,4 +1,4 @@
-## Castellers a i de Barcelona
+## <span>Castellers a i de Barcelona</span>
 
 Els Castellers de Barcelona són la primera colla creada fora del territori tradicional casteller, és a dir, més enllà del Camp de Tarragona i del Penedès. La nova colla va travessar les serres d'Ordal i el riu Llobregat per plantar-se a la Catalunya Vella, a la ciutat de Barcelona.
 
@@ -8,7 +8,7 @@ Res de tot això va impedir posar en marxa la colla. Ben al contrari, els fundad
 
 Mèrit, agraïment i memòria als decisius artífexs: Nico Barquet i Josep Sala.
 
-> La primera collacreada fora del territori tradicional casteller, amb una mirada social i reivindicativa, en ple règim franquista.
+> La primera colla creada fora del territori tradicional casteller, amb una mirada social i reivindicativa, en ple règim franquista.
 
 Habitualment, i per fortuna, el centenar de colles del món casteller, el gran nombre d'actuacions que es fan setmana rere setmana així com la notable difusió dels castells en els mitjans de comunicació, han normalitzat el coneixement i la presència de l‘activitat castellera en el context festiu i cultural de casa nostra i en el teixit social de pobles i ciutats. El cert és que els Castellers de Barcelona són la quarta colla amb més antiguitat i amb continuïtat, després de les colles Vella dels Xiquets de Valls, Nens del Vendrell i Castellers de Vilafranca.
 
@@ -27,7 +27,7 @@ L'última observació d'aquesta part és constatar que la petja social i mediàt
 
 Per tot plegat, la “resistència” de la colla durant 50 anys té molt de mèrit i rau en la perseverança per cultivar les senyes d'identitat apuntades en parlar dels fundadors de la colla: passió, seny, rauxa, constància, utopia... amb aquest desenllaç: 50 anys de Castellers de Barcelona.
 
-## Amateurisme i dimensió social
+## <span>Amateurisme i dimensió social</span>
 
 ### La primera colla del tot amateur
 
