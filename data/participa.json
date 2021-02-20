@@ -1,0 +1,30 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Participa!",
+            "title": "Contracta els Castellers de Barcelona",
+            "pageDescription": "Els Castellers de Barcelona oferim per empreses, universitats, escoles, equips esportius i grups diversos, un ampli ventall d’activitats seleccionades amb els castells que adaptem a les necessitats de cada col·lectiu",
+            "mobile": {
+                "number": "656 85 14 11",
+                "href": "tel:0034656851411",
+                "name": "Salva"
+            },
+            "email": {
+                "address": "participa@castellersdebarcelona.cat",
+                "href": "mailto:participa@castellersdebarcelona.cat"
+            }
+        },
+        "images": {
+            "mainImage": {
+                "src": "4d7net-aquatic-mundials-de-natacio-2013.webp",
+                "width": "1680",
+                "height": "2240",
+                "alt": "4d7net Aquatic dels Castellers de Barcelona a la inauguració dels Mundials de Natació 2013",
+                "imageCaption": {
+                    "title": "4d7net Aquatic dels Castellers de Barcelona",
+                    "description": "Inauguració dels Mundials de Natació de Barcelona 2013. Foto. Natàlia Mocholi"
+                }
+            }
+        }
+    }
+]

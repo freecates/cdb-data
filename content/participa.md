@@ -10,7 +10,7 @@ Els tallers són per donar a conèixer els castells de forma activa i per trebal
 
 Es poden fer allà on digueu o al mateix local dels Castellers de Barcelona. Igual que en els castells, en els nostres tallers tothom hi té cabuda.
 
-## Demostracions en petit format
+## <span>Demostracions en petit format</span>
 
 Els Castellers de  Barcelona oferim demostracions en petit format per empreses. Per una demostració de petit format amb castells i pilars desplacem uns 35 castellers. Tanmateix, ens adaptem, podent oferir també un o dos pilars.
 
