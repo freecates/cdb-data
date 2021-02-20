@@ -1,8 +1,14 @@
 # Contracta'ns
 
-Els Castellers de Barcelona oferim per empreses, universitats, escoles, equips esportius i grups diversos, un ampli ventall d'activitats seleccionades amb els castells que adaptem a les necessitats de cada col·lectiu.
+Els Castellers de Barcelona oferim per empreses, universitats, escoles, equips esportius i grups diversos, un ampli ventall d'activitats seleccionades que adaptem a les necessitats de cada col·lectiu.
 
-Oferim: Tallers per conèixer els castells d'una forma activa. Demostracions castelleres de petit format per esdeveniments. Visites guiades a Cal Pebrot, seu dels Castellers de Barcelona. Activitats castelleres per a estudiants de totes les edats. Conferències sobre el món dels castells i els seus valors socials, educatius i esportius adreçats a la gestió de grups de tot tipus.
+Oferim, entre d'altres: 
+
+- Tallers per conèixer els castells d'una forma activa. 
+- Demostracions castelleres de petit format per esdeveniments. 
+- Visites guiades a Cal Pebrot, seu dels Castellers de Barcelona. 
+- Activitats castelleres per a estudiants de totes les edats. 
+- Conferències sobre el món dels castells i els seus valors socials, educatius i esportius adreçats a la gestió de grups de tot tipus.
 
 ## <span>Tallers castellers</span>
 
