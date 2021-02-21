@@ -14,6 +14,14 @@
                     "route": "/50-anys-50-tuits"
                 }
             ]
+        },
+        "images": {
+            "mainImage": {
+                "src": "01-una-colla-singular-i-pionera.webp",
+                "width": "1680",
+                "height": "1061",
+                "alt": "Una colla singullar i pionera"
+            }
         }
     }
 ]
