@@ -105,3 +105,7 @@
 
 - Campanya de comunicació del 50è aniversari dels Castellers de Barcelona | 50 anys fent pinya.
 - Imatge de la temporada La Xarxa–TAC12 al “5 de 7 integrat per dones”, alçat a Vilafranca del Penedès (5a diada Carme Alomà–Homenatge a les heroïnes anònimes, organitzada pels Xicots de Vilafranca).
+
+### <span>2020.</span> Primer 7 de 7 femení de la història. La pandèmia atura en sec l'activitat castellera. La Colla es reinventa per mantenir els vincles malgrat el confinament, primer, i les restriccions, després.
+
+### <span>2021.</span> La Colla s'adapta a la nova situació. Progressivament es va recuperant la normalitat.
