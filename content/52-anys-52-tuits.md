@@ -52,7 +52,7 @@
 
 ## 1993 – 2006
 
-### <span>1993.</span> La colla apadrina els Castellers de Sants, una de les vint que apadrinarà durant els seus 50 anys.
+### <span>1993.</span> La colla apadrina els Castellers de Sants, una de les vint que apadrinarà durant els seus 52 anys.
 
 ### <span>1994.</span> S’instaura la diada de la Mercè de les colles locals que va començar amb 2 colles. (El 2020 hi han participat les 8 colles castelleres que ara té la ciutat.)
 
