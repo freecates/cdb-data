@@ -7,7 +7,7 @@ Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, 
     - 20h a 21:45h → Assaig General
 - Divendres
     - 20h a 21h → Canalla + Pilars
--   21h a 23:30h → Assaig General
+    - 21h a 23:30h → Assaig General
 
 ## I ja està?
 
