@@ -1,5 +1,3 @@
-El divendres 18 de març, a partir de les 21h, tenim un Assaig especial "Porta un amic o amiga" en què sortejarem un pernil i d'altres productes entre les persones que vingueu per primer cop a l'assaig! Després de l'assaig, oferirem sopar i beguda gratuïta a tots els assistents. Consulta tota la informació de l'Assaig Porta un Amic en aquest [enllaç](https://castellersdebarcelona.cat/noticies/227/assaig-porta-un-amic-o-amiga-el-divendres-18-de-marc)!
-
 ## Vull fer castells: què he de fer?
 
 Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts. Actualment, tenim els següents horaris d’assaig:
