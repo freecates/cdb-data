@@ -2,17 +2,17 @@
     {
         "meta": {
             "pageTitle": "Junta i Tècnica",
-            "title": "Junta i Tècnica 2021",
+            "title": "Junta i Tècnica 2022",
             "pageDescription": "Llista dels membres de la Junta i de la Tècnica dels Castellers de Barcelona"
         },
         "images": {
             "mainImage": {
-                "src": "junta-2021-castellers-de-barcelona.webp",
+                "src": "junta-2022-castellers-de-barcelona.webp",
                 "width": "1680",
-                "height": "477",
-                "alt": "Membres de la Junta 2021 dels Castellers de Barcelona",
+                "height": "773",
+                "alt": "Membres de la Junta 2022 dels Castellers de Barcelona",
                 "imageCaption": {
-                    "title": "Junta 2021",
+                    "title": "Junta 2022",
                     "description": "Castellers de Barcelona"
                 }
             }
@@ -20,27 +20,27 @@
         "members": {
             "boardMembers": [
                 {
-                    "name": "Ramon Gil",
+                    "name": "Gregori Samper",
                     "title": "President"
                 },
                 {
-                    "name": "Jaume Montolio",
+                    "name": "Pau Solé",
                     "title": "Cap de Colla"
                 },
                 {
-                    "name": "Rafel Caballero",
+                    "name": "Josep Maria Casanella",
                     "title": "Vicepresidència"
                 },
                 {
-                    "name": "Xavier Pérez",
-                    "title": "Secretari"
+                    "name": "Montse Torres",
+                    "title": "Secretària"
                 },
                 {
-                    "name": "Cinta Lleixà",
-                    "title": "Tresorera"
+                    "name": "Eduard Solagran",
+                    "title": "Tresorer"
                 },
                 {
-                    "name": "Jordi Planas",
+                    "name": "Aïda Buaro",
                     "title": "Comunicació"
                 },
                 {
@@ -48,29 +48,29 @@
                     "title": "Àrea Social"
                 },
                 {
-                    "name": "Gregori Samper",
+                    "name": "Anna Jorba",
                     "title": "Equitat"
                 }
             ],
             "techMembers": [
                 {
-                    "name": "Jaume Montolio",
+                    "name": "Pau Solé",
                     "title": "Cap de Colla"
                 },
                 {
-                    "name": "Cinta Lleixà",
+                    "name": "Lara Correas",
                     "title": "Troncs"
                 },
                 {
-                    "name": "Carlos Maroño",
+                    "name": "Jordi Planes",
                     "title": "Pinyes"
                 },
                 {
-                    "name": "Jordi Lleixà",
+                    "name": "Robert Rosselló",
                     "title": "Canalla"
                 },
                 {
-                    "name": "(equip)",
+                    "name": "Marina Meléndez",
                     "title": "Pilars"
                 },
                 {
