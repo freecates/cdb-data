@@ -1,0 +1,2966 @@
+{
+    "kind": "calendar#events",
+    "etag": "\"p32gelg63unhuo0g\"",
+    "summary": "Calendari 2019",
+    "description": "Temporada del 50è Aniversari dels Castellers de Barcelona",
+    "updated": "2020-11-02T13:01:32.660Z",
+    "timeZone": "Europe/Madrid",
+    "accessRole": "reader",
+    "defaultReminders": [],
+    "nextSyncToken": "CKDqwMP14-wCEAAYASDm5rXQAQ==",
+    "items": [
+        {
+            "kind": "calendar#event",
+            "etag": "\"3091293867608000\"",
+            "id": "40s0b9b2ghqgbiph0svpe5ppr7",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NDBzMGI5YjJnaHFnYmlwaDBzdnBlNXBwcjcgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2018-12-24T10:22:13.000Z",
+            "updated": "2018-12-24T10:22:13.804Z",
+            "summary": "Festa de Cap d'Any",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-01T00:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-01-01T03:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "40s0b9b2ghqgbiph0svpe5ppr7@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3095136677474000\"",
+            "id": "0ijf1jnb32ah0psn5ijh4ptq1q",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MGlqZjFqbmIzMmFoMHBzbjVpamg0cHRxMXEgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-15T15:59:03.000Z",
+            "updated": "2019-01-15T16:05:38.737Z",
+            "summary": "Festa Major de Santa Eulàlia",
+            "location": "Plaça de Sant Jaume, 08002 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-10T11:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-02-10T14:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "0ijf1jnb32ah0psn5ijh4ptq1q@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3095620008094000\"",
+            "id": "3houus399r9dr7srl6r2b7ir07",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2hvdXVzMzk5cjlkcjdzcmw2cjJiN2lyMDcgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-18T11:13:24.000Z",
+            "updated": "2019-01-18T11:13:24.047Z",
+            "summary": "Actuació de congrés",
+            "location": "Can Travi Nou, s/n, Carrer de Jorge Manrique, 08035 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-18T19:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-01-18T20:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "3houus399r9dr7srl6r2b7ir07@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3095620220492000\"",
+            "id": "68glosak3i97mhh013h4cm62dl",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjhnbG9zYWszaTk3bWhoMDEzaDRjbTYyZGwgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-18T11:15:10.000Z",
+            "updated": "2019-01-18T11:15:10.246Z",
+            "summary": "Assemblea general ordinària",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-19T18:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-01-19T19:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "68glosak3i97mhh013h4cm62dl@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3095620254366000\"",
+            "id": "5u2n9suhjnh5b5bum6n6l1tfng",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NXUybjlzdWhqbmg1YjVidW02bjZsMXRmbmcgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-18T11:14:19.000Z",
+            "updated": "2019-01-18T11:15:27.183Z",
+            "summary": "Assemblea general extraordinària",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-19T17:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-01-19T18:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "5u2n9suhjnh5b5bum6n6l1tfng@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096322910854000\"",
+            "id": "18t1j9pkmdghk3nds16gmstfsb",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MTh0MWo5cGttZGdoazNuZHMxNmdtc3Rmc2JfMjAxOTAxMjVUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:50:55.000Z",
+            "updated": "2019-01-22T12:50:55.427Z",
+            "summary": "Assaig de pilars",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-25T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-25T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190208T225959Z;BYDAY=FR"],
+            "iCalUID": "18t1j9pkmdghk3nds16gmstfsb@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096323024192000\"",
+            "id": "6i64dpbc06ka3ceuk4uig2epm2",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Nmk2NGRwYmMwNmthM2NldWs0dWlnMmVwbTJfMjAxOTAxMjVUMTkwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:51:51.000Z",
+            "updated": "2019-01-22T12:51:52.096Z",
+            "summary": "Assaig de canalla",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-25T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-25T21:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190208T225959Z;BYDAY=FR"],
+            "iCalUID": "6i64dpbc06ka3ceuk4uig2epm2@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096323103948000\"",
+            "id": "32qb9r5svvins1ksbd88g4c03f",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MzJxYjlyNXN2dmluczFrc2JkODhnNGMwM2ZfMjAxOTAxMjVUMjAwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:52:31.000Z",
+            "updated": "2019-01-22T12:52:31.974Z",
+            "summary": "Assaig general",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-25T21:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-25T23:30:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190208T225959Z;BYDAY=FR"],
+            "iCalUID": "32qb9r5svvins1ksbd88g4c03f@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096337667816000\"",
+            "id": "19rhig6im7bi3s5ild9g42sqii",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MTlyaGlnNmltN2JpM3M1aWxkOWc0MnNxaWlfMjAxOTAxMjlUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T14:53:53.000Z",
+            "updated": "2019-01-22T14:53:53.908Z",
+            "summary": "Escola de castells",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-29T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-29T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190205T225959Z;BYDAY=TU"],
+            "iCalUID": "19rhig6im7bi3s5ild9g42sqii@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096337812610000\"",
+            "id": "1nu00ircjbqqcvl7qd3j2un7vt",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MW51MDBpcmNqYnFxY3ZsN3FkM2oydW43dnRfMjAxOTAxMjlUMTkwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T14:55:06.000Z",
+            "updated": "2019-01-22T14:55:06.305Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-29T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-29T21:45:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190205T225959Z;BYDAY=TU"],
+            "iCalUID": "1nu00ircjbqqcvl7qd3j2un7vt@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096636233076000\"",
+            "id": "70j55ulu03dosrf4g0varto7ns",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzBqNTV1bHUwM2Rvc3JmNGcwdmFydG83bnNfMjAxOTAyMjZUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:21:13.000Z",
+            "updated": "2019-01-24T08:21:56.538Z",
+            "summary": "Escola de castells",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-26T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-02-26T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190730T215959Z;BYDAY=TU"],
+            "iCalUID": "70j55ulu03dosrf4g0varto7ns@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096636361466000\"",
+            "id": "7h5hn1f2hrt3qalo8qcgj0tk7n",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2g1aG4xZjJocnQzcWFsbzhxY2dqMHRrN25fMjAxOTAyMjZUMTkwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:22:26.000Z",
+            "updated": "2019-01-24T08:23:00.733Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-26T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-02-26T21:45:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190730T215959Z;BYDAY=TU"],
+            "iCalUID": "7h5hn1f2hrt3qalo8qcgj0tk7n@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096636574114000\"",
+            "id": "73au1hn293fdu8uar3b7nunqpm",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzNhdTFobjI5M2ZkdTh1YXIzYjdudW5xcG1fMjAxOTAzMDFUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:24:47.000Z",
+            "updated": "2019-01-24T08:24:47.057Z",
+            "summary": "Assaig de pilars",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-01T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-01T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190802T215959Z;BYDAY=FR"],
+            "iCalUID": "73au1hn293fdu8uar3b7nunqpm@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096636644962000\"",
+            "id": "26mj1l9f1f7ea1lktdmc8if7l7",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MjZtajFsOWYxZjdlYTFsa3RkbWM4aWY3bDdfMjAxOTAzMDFUMTkwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:25:22.000Z",
+            "updated": "2019-01-24T08:25:22.481Z",
+            "summary": "Assaig de canalla",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-01T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-01T21:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190802T215959Z;BYDAY=FR"],
+            "iCalUID": "26mj1l9f1f7ea1lktdmc8if7l7@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096636734464000\"",
+            "id": "41vlnedbpudktp2lkiavpqdi5l",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NDF2bG5lZGJwdWRrdHAybGtpYXZwcWRpNWxfMjAxOTAzMDFUMjAwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:26:07.000Z",
+            "updated": "2019-01-24T08:26:07.232Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-01T21:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-01T23:30:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190802T215959Z;BYDAY=FR"],
+            "iCalUID": "41vlnedbpudktp2lkiavpqdi5l@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096637695562000\"",
+            "id": "70j55ulu03dosrf4g0varto7ns_20190416T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "70j55ulu03dosrf4g0varto7ns",
+            "originalStartTime": {
+                "dateTime": "2019-04-16T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096637703216000\"",
+            "id": "7h5hn1f2hrt3qalo8qcgj0tk7n_20190416T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "7h5hn1f2hrt3qalo8qcgj0tk7n",
+            "originalStartTime": {
+                "dateTime": "2019-04-16T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096637737644000\"",
+            "id": "73au1hn293fdu8uar3b7nunqpm_20190419T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "73au1hn293fdu8uar3b7nunqpm",
+            "originalStartTime": {
+                "dateTime": "2019-04-19T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096637746290000\"",
+            "id": "26mj1l9f1f7ea1lktdmc8if7l7_20190419T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "26mj1l9f1f7ea1lktdmc8if7l7",
+            "originalStartTime": {
+                "dateTime": "2019-04-19T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096637757544000\"",
+            "id": "41vlnedbpudktp2lkiavpqdi5l_20190419T190000Z",
+            "status": "cancelled",
+            "recurringEventId": "41vlnedbpudktp2lkiavpqdi5l",
+            "originalStartTime": {
+                "dateTime": "2019-04-19T21:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096641685128000\"",
+            "id": "18t1j9pkmdghk3nds16gmstfsb_20190201T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "18t1j9pkmdghk3nds16gmstfsb",
+            "originalStartTime": {
+                "dateTime": "2019-02-01T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3096641769854000\"",
+            "id": "6tbdufhka2g2i2elodla9vjjcb",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnRiZHVmaGthMmcyaTJlbG9kbGE5dmpqY2IgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-24T09:07:44.000Z",
+            "updated": "2019-01-24T09:08:04.927Z",
+            "summary": "Pilars a la Llotja de Mar",
+            "location": "Casa Llotja de Mar, Passeig d'Isabel II, 1, 08003 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-01T18:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-02-01T19:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "6tbdufhka2g2i2elodla9vjjcb@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3097561958490000\"",
+            "id": "13195sb7dvhq9d9ogg2jhq0js8",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MTMxOTVzYjdkdmhxOWQ5b2dnMmpocTBqczggY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-29T16:56:19.000Z",
+            "updated": "2019-01-29T16:56:19.245Z",
+            "summary": "Acte de suport al Centre LGTBI",
+            "location": "Carrer del Comte Borrell, 22, 08015 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-28T18:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-01-28T19:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "13195sb7dvhq9d9ogg2jhq0js8@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3097562136536000\"",
+            "id": "1opaktegomcdn3koutiolb70t0",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MW9wYWt0ZWdvbWNkbjNrb3V0aW9sYjcwdDAgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-01-29T16:57:48.000Z",
+            "updated": "2019-01-29T16:57:48.268Z",
+            "summary": "Gravació espot",
+            "location": "Fòrum, 08019 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-17T12:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-02-17T13:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "1opaktegomcdn3koutiolb70t0@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3097573346054000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTAxMjRUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-01-29T18:31:13.027Z",
+            "summary": "Assaig de canalla",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-24T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-24T20:45:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190130T225959Z;BYDAY=TH"],
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3097573346054000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190418T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-04-18T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3097573346054000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTAxMzFUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-01-29T18:31:13.027Z",
+            "summary": "Assaig de canalla i de pilars",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-01-31T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-01-31T20:45:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;UNTIL=20190801T215959Z;BYDAY=TH"],
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790390430000\"",
+            "id": "0b0d7rfuaofvcfl7vvgm45emht",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MGIwZDdyZnVhb2Z2Y2ZsN3Z2Z200NWVtaHQgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:33:15.000Z",
+            "updated": "2019-02-05T19:33:15.215Z",
+            "summary": "Diada de la Dona (Vilafranca)",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-03-10"
+            },
+            "end": {
+                "date": "2019-03-11"
+            },
+            "transparency": "transparent",
+            "iCalUID": "0b0d7rfuaofvcfl7vvgm45emht@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790424966000\"",
+            "id": "7k1i8i2oqhr449bb12rt99h9dm",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2sxaThpMm9xaHI0NDliYjEycnQ5OWg5ZG0gY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:33:32.000Z",
+            "updated": "2019-02-05T19:33:32.483Z",
+            "summary": "Sant Josep Oriol",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-03-16"
+            },
+            "end": {
+                "date": "2019-03-17"
+            },
+            "transparency": "transparent",
+            "iCalUID": "7k1i8i2oqhr449bb12rt99h9dm@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790451616000\"",
+            "id": "2ccd76d08ktkfj33tnfr3nd6b6",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MmNjZDc2ZDA4a3RrZmozM3RuZnIzbmQ2YjYgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:33:45.000Z",
+            "updated": "2019-02-05T19:33:45.808Z",
+            "summary": "Diada de colles filloles",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-03-17"
+            },
+            "end": {
+                "date": "2019-03-18"
+            },
+            "transparency": "transparent",
+            "iCalUID": "2ccd76d08ktkfj33tnfr3nd6b6@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790556820000\"",
+            "id": "5ts1ak226abil2bh5umds5vj00",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NXRzMWFrMjI2YWJpbDJiaDV1bWRzNXZqMDAgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:34:27.000Z",
+            "updated": "2019-02-05T19:34:38.410Z",
+            "summary": "Can Jorba",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-04-07"
+            },
+            "end": {
+                "date": "2019-04-08"
+            },
+            "transparency": "transparent",
+            "iCalUID": "5ts1ak226abil2bh5umds5vj00@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790574030000\"",
+            "id": "4lr63egnfk2coeo2r30i5ddc7l",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NGxyNjNlZ25mazJjb2VvMnIzMGk1ZGRjN2wgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:34:46.000Z",
+            "updated": "2019-02-05T19:34:47.015Z",
+            "summary": "Vic",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-04-14"
+            },
+            "end": {
+                "date": "2019-04-15"
+            },
+            "transparency": "transparent",
+            "iCalUID": "4lr63egnfk2coeo2r30i5ddc7l@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790597686000\"",
+            "id": "7j9hk6tpagbl1af2f8g0784i96",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2o5aGs2dHBhZ2JsMWFmMmY4ZzA3ODRpOTYgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:34:58.000Z",
+            "updated": "2019-02-05T19:34:58.843Z",
+            "summary": "Vilanova",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-04-28"
+            },
+            "end": {
+                "date": "2019-04-29"
+            },
+            "transparency": "transparent",
+            "iCalUID": "7j9hk6tpagbl1af2f8g0784i96@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790619768000\"",
+            "id": "44kbhd0npv0s44jf4bughlosmf",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NDRrYmhkMG5wdjBzNDRqZjRidWdobG9zbWYgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:35:09.000Z",
+            "updated": "2019-02-05T19:35:09.884Z",
+            "summary": "Bateig Castellers de Sarrià",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-04-27"
+            },
+            "end": {
+                "date": "2019-04-28"
+            },
+            "transparency": "transparent",
+            "iCalUID": "44kbhd0npv0s44jf4bughlosmf@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098790948472000\"",
+            "id": "767cd2s2c8qpon2otoud7bsrcd",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzY3Y2QyczJjOHFwb24yb3RvdWQ3YnNyY2QgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:37:54.000Z",
+            "updated": "2019-02-05T19:37:54.236Z",
+            "summary": "Barceloneta",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-05-25"
+            },
+            "end": {
+                "date": "2019-05-26"
+            },
+            "transparency": "transparent",
+            "iCalUID": "767cd2s2c8qpon2otoud7bsrcd@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098791293032000\"",
+            "id": "7b0spo6taitq4iulvlapj8g1eu",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2Iwc3BvNnRhaXRxNGl1bHZsYXBqOGcxZXUgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:40:46.000Z",
+            "updated": "2019-02-05T19:40:46.516Z",
+            "summary": "Aniversari Minyons",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-07-14"
+            },
+            "end": {
+                "date": "2019-07-15"
+            },
+            "transparency": "transparent",
+            "iCalUID": "7b0spo6taitq4iulvlapj8g1eu@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3098791351298000\"",
+            "id": "0ljjuqdum2fqglc44ff28i8dia",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MGxqanVxZHVtMmZxZ2xjNDRmZjI4aThkaWEgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:41:15.000Z",
+            "updated": "2019-02-05T19:41:15.649Z",
+            "summary": "Màrtirs",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-08-03"
+            },
+            "end": {
+                "date": "2019-08-04"
+            },
+            "transparency": "transparent",
+            "iCalUID": "0ljjuqdum2fqglc44ff28i8dia@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3100630850930000\"",
+            "id": "6v3tij6vfvm40dsjplp8r3g473",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnYzdGlqNnZmdm00MGRzanBscDhyM2c0NzMgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-16T11:09:50.000Z",
+            "updated": "2019-02-16T11:10:25.465Z",
+            "summary": "Assaig de canalla i de pilars",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-02-19T19:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-02-19T20:45:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "6v3tij6vfvm40dsjplp8r3g473@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3100630895022000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190221T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-02-21T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3102949457986000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190307T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-03-07T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3102949737924000\"",
+            "id": "5b0qo7d8qqatkpmu2e8fo2jmr2",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NWIwcW83ZDhxcWF0a3BtdTJlOGZvMmptcjIgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:37:12.000Z",
+            "updated": "2019-03-01T21:14:28.962Z",
+            "summary": "Interinstituts",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-06-01"
+            },
+            "end": {
+                "date": "2019-06-02"
+            },
+            "transparency": "transparent",
+            "iCalUID": "5b0qo7d8qqatkpmu2e8fo2jmr2@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3103030465708000\"",
+            "id": "14oohtg2mhgf81huar9oij19n3",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MTRvb2h0ZzJtaGdmODFodWFyOW9pajE5bjMgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-03-02T08:26:51.000Z",
+            "updated": "2019-03-02T08:27:12.854Z",
+            "summary": "Preparació i rua de Carnestoltes al Clot-Camp de l'Arpa",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-02T10:30:00+01:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-03-02T19:00:00+01:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "14oohtg2mhgf81huar9oij19n3@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3103275605680000\"",
+            "id": "26mj1l9f1f7ea1lktdmc8if7l7_20190308T190000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MjZtajFsOWYxZjdlYTFsa3RkbWM4aWY3bDdfMjAxOTAzMDhUMTkwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:25:22.000Z",
+            "updated": "2019-03-03T18:30:02.840Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-07T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-07T21:45:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "26mj1l9f1f7ea1lktdmc8if7l7",
+            "originalStartTime": {
+                "dateTime": "2019-03-08T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "26mj1l9f1f7ea1lktdmc8if7l7@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3103275637722000\"",
+            "id": "41vlnedbpudktp2lkiavpqdi5l_20190308T200000Z",
+            "status": "cancelled",
+            "recurringEventId": "41vlnedbpudktp2lkiavpqdi5l",
+            "originalStartTime": {
+                "dateTime": "2019-03-08T21:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3103275661860000\"",
+            "id": "73au1hn293fdu8uar3b7nunqpm_20190308T180000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzNhdTFobjI5M2ZkdTh1YXIzYjdudW5xcG1fMjAxOTAzMDhUMTgwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-24T08:24:47.000Z",
+            "updated": "2019-03-03T18:30:30.930Z",
+            "summary": "Assaig de canalla",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-07T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-07T20:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "73au1hn293fdu8uar3b7nunqpm",
+            "originalStartTime": {
+                "dateTime": "2019-03-08T19:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "73au1hn293fdu8uar3b7nunqpm@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3105971491306000\"",
+            "id": "1nvv51ql200ejppkrp4tivb9uu",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MW52djUxcWwyMDBlanBwa3JwNHRpdmI5dXUgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-03-19T08:55:45.000Z",
+            "updated": "2019-03-19T08:55:45.653Z",
+            "summary": "Cerdanyola",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-05-05"
+            },
+            "end": {
+                "date": "2019-05-06"
+            },
+            "transparency": "transparent",
+            "iCalUID": "1nvv51ql200ejppkrp4tivb9uu@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3105971536040000\"",
+            "id": "27i3pdv4jlpa1b3qvcgmp2qvke",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MjdpM3BkdjRqbHBhMWIzcXZjZ21wMnF2a2UgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-03-19T08:56:07.000Z",
+            "updated": "2019-03-19T08:56:08.020Z",
+            "summary": "Nou Barris",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-05-19"
+            },
+            "end": {
+                "date": "2019-05-20"
+            },
+            "transparency": "transparent",
+            "iCalUID": "27i3pdv4jlpa1b3qvcgmp2qvke@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3106745030112000\"",
+            "id": "56hs5ok84ai8gdj962aju2uc7d",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NTZoczVvazg0YWk4Z2RqOTYyYWp1MnVjN2QgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:33:54.000Z",
+            "updated": "2019-03-23T20:21:55.056Z",
+            "summary": "Badalona",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-03-24T12:30:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-03-24T13:30:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "56hs5ok84ai8gdj962aju2uc7d@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1",
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3110797276194000\"",
+            "id": "6ue1krg87ib8i5bgfm35bmufgg",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnVlMWtyZzg3aWI4aTViZ2ZtMzVibXVmZ2cgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:38:11.000Z",
+            "updated": "2019-04-16T07:10:38.097Z",
+            "summary": "50è Aniversari",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-06-08"
+            },
+            "end": {
+                "date": "2019-06-09"
+            },
+            "transparency": "transparent",
+            "iCalUID": "6ue1krg87ib8i5bgfm35bmufgg@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3110798015442000\"",
+            "id": "3d77am4v3b7qf5mllnq6btj12t",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M2Q3N2FtNHYzYjdxZjVtbGxucTZidGoxMnQgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:38:37.000Z",
+            "updated": "2019-04-16T07:16:47.721Z",
+            "summary": "Festa Major del Casc Antic",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-06-22"
+            },
+            "end": {
+                "date": "2019-06-23"
+            },
+            "transparency": "transparent",
+            "iCalUID": "3d77am4v3b7qf5mllnq6btj12t@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3110798102204000\"",
+            "id": "6kd72amg8d1673gsok063lis5h",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmtkNzJhbWc4ZDE2NzNnc29rMDYzbGlzNWggY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:40:54.000Z",
+            "updated": "2019-04-16T07:17:31.102Z",
+            "summary": "Festa Major de Salt",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-07-28"
+            },
+            "end": {
+                "date": "2019-07-29"
+            },
+            "transparency": "transparent",
+            "iCalUID": "6kd72amg8d1673gsok063lis5h@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3110798122906000\"",
+            "id": "38r3uu4loj0q0lu26kjb5eahhu",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MzhyM3V1NGxvajBxMGx1MjZramI1ZWFoaHUgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:39:30.000Z",
+            "updated": "2019-04-16T07:17:41.453Z",
+            "summary": "Festa Major del Raval",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-07-13"
+            },
+            "end": {
+                "date": "2019-07-14"
+            },
+            "transparency": "transparent",
+            "iCalUID": "38r3uu4loj0q0lu26kjb5eahhu@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3118290127978000\"",
+            "id": "766gk8rda6okqqilr71uhfe5s8",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzY2Z2s4cmRhNm9rcXFpbHI3MXVoZmU1czggY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-05-29T15:48:34.000Z",
+            "updated": "2019-05-29T15:51:03.989Z",
+            "summary": "20è Concurs de Castells de Sorra",
+            "location": "Platja de la Nova Icària",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-06-02"
+            },
+            "end": {
+                "date": "2019-06-03"
+            },
+            "iCalUID": "766gk8rda6okqqilr71uhfe5s8@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3119443664030000\"",
+            "id": "70j55ulu03dosrf4g0varto7ns_20190702T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "70j55ulu03dosrf4g0varto7ns",
+            "originalStartTime": {
+                "dateTime": "2019-07-02T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3119443674140000\"",
+            "id": "7h5hn1f2hrt3qalo8qcgj0tk7n_20190702T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "7h5hn1f2hrt3qalo8qcgj0tk7n",
+            "originalStartTime": {
+                "dateTime": "2019-07-02T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874470994000\"",
+            "id": "70j55ulu03dosrf4g0varto7ns_20190625T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "70j55ulu03dosrf4g0varto7ns",
+            "originalStartTime": {
+                "dateTime": "2019-06-25T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874484462000\"",
+            "id": "7h5hn1f2hrt3qalo8qcgj0tk7n_20190625T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "7h5hn1f2hrt3qalo8qcgj0tk7n",
+            "originalStartTime": {
+                "dateTime": "2019-06-25T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874500890000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190627T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-06-27T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874520974000\"",
+            "id": "73au1hn293fdu8uar3b7nunqpm_20190628T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "73au1hn293fdu8uar3b7nunqpm",
+            "originalStartTime": {
+                "dateTime": "2019-06-28T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874531074000\"",
+            "id": "26mj1l9f1f7ea1lktdmc8if7l7_20190628T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "26mj1l9f1f7ea1lktdmc8if7l7",
+            "originalStartTime": {
+                "dateTime": "2019-06-28T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3121874540534000\"",
+            "id": "41vlnedbpudktp2lkiavpqdi5l_20190628T190000Z",
+            "status": "cancelled",
+            "recurringEventId": "41vlnedbpudktp2lkiavpqdi5l",
+            "originalStartTime": {
+                "dateTime": "2019-06-28T21:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3122598875112000\"",
+            "id": "1m4siu45bm3ogtlojh2llhhpjl",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MW00c2l1NDVibTNvZ3Rsb2poMmxsaGhwamwgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-06-23T14:17:17.000Z",
+            "updated": "2019-06-23T14:17:17.556Z",
+            "summary": "Congrés al Poble Espanyol",
+            "location": "Poble Espanyol de Montjuic, Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-17T20:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-17T21:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "1m4siu45bm3ogtlojh2llhhpjl@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3122598961630000\"",
+            "id": "48rn2g1psl8qso3ghcqq9qgpka",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NDhybjJnMXBzbDhxc28zZ2hjcXE5cWdwa2EgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-06-23T14:18:00.000Z",
+            "updated": "2019-06-23T14:18:00.815Z",
+            "summary": "Rebuda a la Flama del Canigó",
+            "location": "Plaça de Sant Jaume, 1, 08002 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-23T18:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-23T19:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "48rn2g1psl8qso3ghcqq9qgpka@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3122599104418000\"",
+            "id": "6shreufo25pegcjov6am6k8g5l",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnNocmV1Zm8yNXBlZ2Nqb3Y2YW02azhnNWwgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-06-23T14:19:12.000Z",
+            "updated": "2019-06-23T14:19:12.209Z",
+            "summary": "Foguera i revetlla de Sant Joan",
+            "location": "Carrer del Concili de Trento, Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-23T22:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-23T23:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "6shreufo25pegcjov6am6k8g5l@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3122599281726000\"",
+            "id": "2h364onveh2fp20mca254ac88g",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MmgzNjRvbnZlaDJmcDIwbWNhMjU0YWM4OGcgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-06-23T14:20:40.000Z",
+            "updated": "2019-06-23T14:20:40.863Z",
+            "summary": "Pilar solidari",
+            "location": "Nau Bostik, Carrer Ferran Turné, 11, 08027 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-16T16:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-16T17:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "2h364onveh2fp20mca254ac88g@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3122599449606000\"",
+            "id": "7lmbsd4muo3qejotacph4bdnfm",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=N2xtYnNkNG11bzNxZWpvdGFjcGg0YmRuZm0gY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-02-05T19:38:27.000Z",
+            "updated": "2019-06-23T14:22:04.803Z",
+            "summary": "Diada del Pati (Valls)",
+            "location": "Plaça El Pati, 43800 Valls, Tarragona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "date": "2019-06-15"
+            },
+            "end": {
+                "date": "2019-06-16"
+            },
+            "transparency": "transparent",
+            "iCalUID": "7lmbsd4muo3qejotacph4bdnfm@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126582364472000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190711T170000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTA3MTFUMTcwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-07-16T15:33:02.236Z",
+            "summary": "Assaig de canalla i de pilars",
+            "location": "Platja del Bogatell, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-11T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-07-11T20:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-07-11T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126582444814000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190725T170000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTA3MjVUMTcwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-07-16T15:33:42.407Z",
+            "summary": "Assaig de canalla i de pilars",
+            "location": "Platja del Bogatell, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-25T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-07-25T20:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-07-25T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126582675588000\"",
+            "id": "1bqb694qqroa8tp737c6qamqli",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MWJxYjY5NHFxcm9hOHRwNzM3YzZxYW1xbGkgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:35:03.000Z",
+            "updated": "2019-07-16T15:35:37.794Z",
+            "summary": "Pilars del 50è",
+            "location": "Casa Batlló, Passeig de Gràcia, 43, 08007 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-17T18:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-07-17T19:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "1bqb694qqroa8tp737c6qamqli@google.com",
+            "sequence": 1,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126582850958000\"",
+            "id": "6l4e1n3iud42gpu1106sibt08b",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Nmw0ZTFuM2l1ZDQyZ3B1MTEwNnNpYnQwOGIgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:36:30.000Z",
+            "updated": "2019-07-16T15:37:05.479Z",
+            "summary": "Pilars del 50è",
+            "location": "La Pedrera, Passeig de Gràcia, 92, 08008 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-17T19:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-07-17T20:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "transparency": "transparent",
+            "iCalUID": "6l4e1n3iud42gpu1106sibt08b@google.com",
+            "sequence": 1,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126582989072000\"",
+            "id": "22e59jjeb98f4geac3t5h98a8b",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MjJlNTlqamViOThmNGdlYWMzdDVoOThhOGIgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:38:14.000Z",
+            "updated": "2019-07-16T15:38:14.536Z",
+            "summary": "Pilars del 50è",
+            "location": "Pavellons Güell, Av. de Pedralbes, 7, 08034 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-18T18:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-07-18T19:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "22e59jjeb98f4geac3t5h98a8b@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126583078942000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190704T170000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTA3MDRUMTcwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-07-16T15:38:59.471Z",
+            "summary": "Inauguració World Roller Games",
+            "location": "Palau Sant Jordi, Passeig Olímpic, 5-7, 08038 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-04T21:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-07-04T22:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-07-04T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126583138048000\"",
+            "id": "5hgm3qsj308762gl030igi1ikc",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NWhnbTNxc2ozMDg3NjJnbDAzMGlnaTFpa2MgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:39:28.000Z",
+            "updated": "2019-07-16T15:39:29.024Z",
+            "summary": "Recepció President Generalitat",
+            "location": "Palau de la Generalitat de Catalunya, Plaça de Sant Jaume, 4, 08002 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-03T19:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-07-03T20:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "5hgm3qsj308762gl030igi1ikc@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126583295190000\"",
+            "id": "3skunq4a2gcppknnncuj4i3tcc",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=M3NrdW5xNGEyZ2NwcGtubm5jdWo0aTN0Y2MgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:40:47.000Z",
+            "updated": "2019-07-16T15:40:47.595Z",
+            "summary": "Pilars del 50è",
+            "location": "Poble Espanyol de Montjuic, Av. Francesc Ferrer i Guàrdia, 13, 08038 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-17T21:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-17T22:00:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "3skunq4a2gcppknnncuj4i3tcc@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126583452728000\"",
+            "id": "6d6efasdcb916mhgtnmd9uc6ch",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmQ2ZWZhc2RjYjkxNm1oZ3RubWQ5dWM2Y2ggY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:41:57.000Z",
+            "updated": "2019-07-16T15:42:06.364Z",
+            "summary": "Xerrada 'El foc i la festa'",
+            "location": "Castellers de Barcelona, Carrer de Bilbao, 212-214, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-13T20:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-13T21:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "6d6efasdcb916mhgtnmd9uc6ch@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3126583555680000\"",
+            "id": "5l1apgdsm7u2353njfoof592m5",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NWwxYXBnZHNtN3UyMzUzbmpmb29mNTkybTUgY2FzdGVsbGVyc2RlYmFyY2Vsb25hLmNhdF9rZHZsaWxkbWFpYmJ0bGUzc3N1NXRiaGJqMEBn",
+            "created": "2019-07-16T15:42:48.000Z",
+            "updated": "2019-07-16T15:42:57.840Z",
+            "summary": "Xerrada 'La Flama del Canigó'",
+            "location": "Castellers de Barcelona, Carrer de Bilbao, 212-214, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-06-20T20:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2019-06-20T21:30:00+02:00",
+                "timeZone": "UTC"
+            },
+            "iCalUID": "5l1apgdsm7u2353njfoof592m5@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145083466000\"",
+            "id": "64s68opj71h66b9g71ij8b9k6lj34b9pclh3eb9oc8rjgopgchhmcphm6k",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NjRzNjhvcGo3MWg2NmI5ZzcxaWo4YjlrNmxqMzRiOXBjbGgzZWI5b2M4cmpnb3BnY2hobWNwaG02ayBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:42:21.000Z",
+            "updated": "2019-07-19T21:42:21.733Z",
+            "summary": "Diada del Mercat",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-09-07T18:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-09-07T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "64s68opj71h66b9g71ij8b9k6lj34b9pclh3eb9oc8rjgopgchhmcphm6k@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145084690000\"",
+            "id": "6sojipb36lij8bb26lh32b9kc5im8b9p6ko6ab9ocksmcpb36ooj4p1ncg",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnNvamlwYjM2bGlqOGJiMjZsaDMyYjlrYzVpbThiOXA2a282YWI5b2Nrc21jcGIzNm9vajRwMW5jZyBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:42:22.000Z",
+            "updated": "2019-07-19T21:42:22.345Z",
+            "summary": "FM Sabadell",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-09-08T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-09-08T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "6sojipb36lij8bb26lh32b9kc5im8b9p6ko6ab9ocksmcpb36ooj4p1ncg@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145138894000\"",
+            "id": "cko3cdb46kom6bb26sp64b9kckoj8bb1cgrjgb9h6kp30dpp69i32dpkc4",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Y2tvM2NkYjQ2a29tNmJiMjZzcDY0YjlrY2tvajhiYjFjZ3JqZ2I5aDZrcDMwZHBwNjlpMzJkcGtjNCBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:42:49.000Z",
+            "updated": "2019-07-19T21:42:49.447Z",
+            "summary": "FM Poblenou",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-09-15T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-09-15T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "cko3cdb46kom6bb26sp64b9kckoj8bb1cgrjgb9h6kp30dpp69i32dpkc4@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145274228000\"",
+            "id": "ccq66pj370q64b9n68qj6b9k60pmcbb270rm2bb56gpj8d9i6or66cj46g",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Y2NxNjZwajM3MHE2NGI5bjY4cWo2YjlrNjBwbWNiYjI3MHJtMmJiNTZncGo4ZDlpNm9yNjZjajQ2ZyBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:43:57.000Z",
+            "updated": "2019-07-19T21:43:57.114Z",
+            "summary": "Diada Històrica de la Mercè",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-09-22T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-09-22T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "ccq66pj370q64b9n68qj6b9k60pmcbb270rm2bb56gpj8d9i6or66cj46g@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145275234000\"",
+            "id": "6lijcp9i65i3ebb1c4qjab9k6cq34b9oc9gjab9o74o64dhpclj30c1n6k",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmxpamNwOWk2NWkzZWJiMWM0cWphYjlrNmNxMzRiOW9jOWdqYWI5bzc0bzY0ZGhwY2xqMzBjMW42ayBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:43:57.000Z",
+            "updated": "2019-07-19T21:43:57.617Z",
+            "summary": "Diada de La Mercè Colles Locals",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-09-24T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-09-24T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "6lijcp9i65i3ebb1c4qjab9k6cq34b9oc9gjab9o74o64dhpclj30c1n6k@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145393450000\"",
+            "id": "71h34d1pc4oj4b9j6cpjib9kc4o3gbb2cphj6b9o70pj8cpn6crj4c9g64",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzFoMzRkMXBjNG9qNGI5ajZjcGppYjlrYzRvM2diYjJjcGhqNmI5bzcwcGo4Y3BuNmNyajRjOWc2NCBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:44:56.000Z",
+            "updated": "2019-07-19T21:44:56.725Z",
+            "summary": "FM Les Corts",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-10-06T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-10-06T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "71h34d1pc4oj4b9j6cpjib9kc4o3gbb2cphj6b9o70pj8cpn6crj4c9g64@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145394498000\"",
+            "id": "cgqj6o9oclgmab9p64r3eb9kc9hmabb16thj8b9ncgq64cpk6oq3id9g6k",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Y2dxajZvOW9jbGdtYWI5cDY0cjNlYjlrYzlobWFiYjE2dGhqOGI5bmNncTY0Y3BrNm9xM2lkOWc2ayBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:44:57.000Z",
+            "updated": "2019-07-19T21:44:57.249Z",
+            "summary": "FM Sarrià",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-10-13T12:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-10-13T13:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "cgqj6o9oclgmab9p64r3eb9kc9hmabb16thj8b9ncgq64cpk6oq3id9g6k@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145541206000\"",
+            "id": "6oqj8pj16crj4bb660p34b9k65i38bb170s38b9pckqm8pj464oj8e9g6s",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Nm9xajhwajE2Y3JqNGJiNjYwcDM0YjlrNjVpMzhiYjE3MHMzOGI5cGNrcW04cGo0NjRvajhlOWc2cyBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:46:10.000Z",
+            "updated": "2019-07-19T21:46:10.603Z",
+            "summary": "FM Verneda",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-11-02T12:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-11-02T13:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "6oqj8pj16crj4bb660p34b9k65i38bb170s38b9pckqm8pj464oj8e9g6s@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145542872000\"",
+            "id": "6dgjicj4chh6cb9p60ojab9k6so36b9o6oq3ab9n64q6ce32cph6cd366k",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmRnamljajRjaGg2Y2I5cDYwb2phYjlrNnNvMzZiOW82b3EzYWI5bjY0cTZjZTMyY3BoNmNkMzY2ayBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:46:11.000Z",
+            "updated": "2019-07-19T21:46:11.436Z",
+            "summary": "Diada del Roser",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-11-03T12:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-11-03T13:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "6dgjicj4chh6cb9p60ojab9k6so36b9o6oq3ab9n64q6ce32cph6cd366k@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145622622000\"",
+            "id": "6hgmcc36cgr64b9m6pi32b9kc8s36bb2corjib9g6krj2chkchhmao9nc4",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmhnbWNjMzZjZ3I2NGI5bTZwaTMyYjlrYzhzMzZiYjJjb3JqaWI5ZzZrcmoyY2hrY2hobWFvOW5jNCBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-07-19T21:46:51.000Z",
+            "updated": "2019-07-19T21:46:51.311Z",
+            "summary": "FM Clot",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-11-10T12:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-11-10T13:00:00+01:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "6hgmcc36cgr64b9m6pi32b9kc8s36bb2corjib9g6krj2chkchhmao9nc4@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145775158000\"",
+            "id": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzRzNjJkMXA2Z3NqZWI5ZzZjcm02YjlrNmRnamViYjE2OWlqZ2I5Z2NkZ20yZDM1Y2dzamNvOWtjOF8yMDE5MDgyN1QxODAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:48:07.000Z",
+            "updated": "2019-07-19T21:48:07.579Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-27T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-27T21:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191105T000000Z;INTERVAL=1;BYDAY=TU"],
+            "iCalUID": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145920894000\"",
+            "id": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmdzamVwYjVjOHAzYWJiMWNwajNjYjlrNzRvM2FiOW82cGozMGI5aGNoaTMwb3I1Y29zNjRvcjY2MF8yMDE5MDgyN1QxNzAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:48:07.000Z",
+            "updated": "2019-07-19T21:49:20.447Z",
+            "summary": "Escola de castells",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-27T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-27T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191105T000000Z;INTERVAL=1;BYDAY=TU"],
+            "iCalUID": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145922484000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190801T170000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTA4MDFUMTcwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-07-19T21:49:21.242Z",
+            "summary": "Assaig de canalla ",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-01T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-01T20:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-08-01T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127145977958000\"",
+            "id": "6lj38cppcoqm4b9gchh30b9kc4o32bb1c8om4bb375hm4pj160o3gp1ncc",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NmxqMzhjcHBjb3FtNGI5Z2NoaDMwYjlrYzRvMzJiYjFjOG9tNGJiMzc1aG00cGoxNjBvM2dwMW5jY18yMDE5MDgyOVQxNzAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:49:21.000Z",
+            "updated": "2019-07-19T21:49:48.979Z",
+            "summary": "Assaig de canalla ",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-29T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-29T20:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191107T000000Z;INTERVAL=1;BYDAY=TH"],
+            "iCalUID": "6lj38cppcoqm4b9gchh30b9kc4o32bb1c8om4bb375hm4pj160o3gp1ncc@google.com",
+            "sequence": 1,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127146105804000\"",
+            "id": "cksm4o9h75gmcb9m6grmab9kc4r66b9p74s36bb660qm2cb371j6ae9i64",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=Y2tzbTRvOWg3NWdtY2I5bTZncm1hYjlrYzRyNjZiOXA3NHMzNmJiNjYwcW0yY2IzNzFqNmFlOWk2NF8yMDE5MDgzMFQxNzAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:50:52.000Z",
+            "updated": "2019-07-19T21:50:52.902Z",
+            "summary": "Assaig de pilars",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-30T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-30T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191108T000000Z;INTERVAL=1;BYDAY=FR"],
+            "iCalUID": "cksm4o9h75gmcb9m6grmab9kc4r66b9p74s36bb660qm2cb371j6ae9i64@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127146106850000\"",
+            "id": "c4qm2p1mcdij2bb674p34b9k6ks30b9o6gq32bb364s30ohg6cpjeor460",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=YzRxbTJwMW1jZGlqMmJiNjc0cDM0YjlrNmtzMzBiOW82Z3EzMmJiMzY0czMwb2hnNmNwamVvcjQ2MF8yMDE5MDgzMFQxODAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:50:53.000Z",
+            "updated": "2019-07-19T21:50:53.425Z",
+            "summary": "Assaig de canalla",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-30T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-30T21:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191108T000000Z;INTERVAL=1;BYDAY=FR"],
+            "iCalUID": "c4qm2p1mcdij2bb674p34b9k6ks30b9o6gq32bb364s30ohg6cpjeor460@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127146286898000\"",
+            "id": "6ssmce9n60sjcb9m6dj34b9k6oom2bb2cgo32b9j6os3iob66csjicb4ck",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NnNzbWNlOW42MHNqY2I5bTZkajM0YjlrNm9vbTJiYjJjZ28zMmI5ajZvczNpb2I2NmNzamljYjRja18yMDE5MDgzMFQxOTAwMDBaIGNhc3RlbGxlcnNkZWJhcmNlbG9uYS5jYXRfa2R2bGlsZG1haWJidGxlM3NzdTV0YmhiajBAZw",
+            "created": "2019-07-19T21:52:23.000Z",
+            "updated": "2019-07-19T21:52:23.449Z",
+            "summary": "Assaig general",
+            "location": "Carrer de Bilbao, 212, 08018 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-08-30T21:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-08-30T23:30:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurrence": ["RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191108T000000Z;INTERVAL=1;BYDAY=FR"],
+            "iCalUID": "6ssmce9n60sjcb9m6dj34b9k6oom2bb2cgo32b9j6os3iob66csjicb4ck@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "eventAttendeeList": "[]"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127146291332000\"",
+            "id": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660_20190924T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660",
+            "originalStartTime": {
+                "dateTime": "2019-09-24T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3127146292890000\"",
+            "id": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8_20190924T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8",
+            "originalStartTime": {
+                "dateTime": "2019-09-24T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3128136406820000\"",
+            "id": "1rdddkgn2dq60hmd9iee0oiak2_20190718T170000Z",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=MXJkZGRrZ24yZHE2MGhtZDlpZWUwb2lhazJfMjAxOTA3MThUMTcwMDAwWiBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-01-22T12:49:00.000Z",
+            "updated": "2019-07-25T15:23:23.410Z",
+            "summary": "Assaig de canalla i de pilars",
+            "location": "Jardins de Vil·la Amèlia, Eduardo Conde, 22, 08034 Barcelona, Espanya",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-07-18T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-07-18T20:45:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "recurringEventId": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000",
+            "originalStartTime": {
+                "dateTime": "2019-07-18T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "1rdddkgn2dq60hmd9iee0oiak2_R20190131T180000@google.com",
+            "sequence": 0,
+            "extendedProperties": {
+                "private": {
+                    "everyoneDeclinedDismissed": "-1"
+                }
+            },
+            "eventType": "default"
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3130567700190000\"",
+            "id": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660_20190827T170000Z",
+            "status": "cancelled",
+            "recurringEventId": "6gsjepb5c8p3abb1cpj3cb9k74o3ab9o6pj30b9hchi30or5cos64or660",
+            "originalStartTime": {
+                "dateTime": "2019-08-27T19:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3130567702210000\"",
+            "id": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8_20190827T180000Z",
+            "status": "cancelled",
+            "recurringEventId": "74s62d1p6gsjeb9g6crm6b9k6dgjebb169ijgb9gcdgm2d35cgsjco9kc8",
+            "originalStartTime": {
+                "dateTime": "2019-08-27T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            }
+        },
+        {
+            "kind": "calendar#event",
+            "etag": "\"3136494668322000\"",
+            "id": "71hj0p9gcco6abb16sp38b9k6ssm2bb2c8o36bb46dhjee1l64q62dj664",
+            "status": "confirmed",
+            "htmlLink": "https://www.google.com/calendar/event?eid=NzFoajBwOWdjY282YWJiMTZzcDM4YjlrNnNzbTJiYjJjOG8zNmJiNDZkaGplZTFsNjRxNjJkajY2NCBjYXN0ZWxsZXJzZGViYXJjZWxvbmEuY2F0X2tkdmxpbGRtYWliYnRsZTNzc3U1dGJoYmowQGc",
+            "created": "2019-09-12T00:15:33.000Z",
+            "updated": "2019-09-12T00:15:34.161Z",
+            "summary": "Diad dels Castellers de Sant Cugat",
+            "creator": {
+                "email": "colla@castellersdebarcelona.cat",
+                "displayName": "Castellers de Barcelona"
+            },
+            "organizer": {
+                "email": "castellersdebarcelona.cat_kdvlildmaibbtle3ssu5tbhbj0@group.calendar.google.com",
+                "displayName": "Calendari 2019",
+                "self": true
+            },
+            "start": {
+                "dateTime": "2019-10-26T18:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "end": {
+                "dateTime": "2019-10-26T20:00:00+02:00",
+                "timeZone": "Europe/Madrid"
+            },
+            "iCalUID": "71hj0p9gcco6abb16sp38b9k6ssm2bb2c8o36bb46dhjee1l64q62dj664@google.com",
+            "sequence": 0,
+            "eventType": "default"
+        }
+    ]
+}
