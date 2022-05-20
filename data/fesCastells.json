@@ -18,7 +18,13 @@
                     "streetAddres": "Carrer de Bilbao, 212"
                 },
                 "alternateName": "Cal Pebrot"
-            }
+            },
+            "otherRoutes": [
+                {
+                    "name": "Calendari",
+                    "route": "/calendari"
+                }
+            ]
         },
         "images": {
             "mainImage": {
