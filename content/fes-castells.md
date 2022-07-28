@@ -1,14 +1,8 @@
 ## Vull fer castells: què he de fer?
 
-Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts. Aquest mes farem tres assajos al carrer:
+Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
 
-Divendres, 1 de juliol, de 21 a 23:30h, assaig general a la Plaça del [Mercat del Clot](https://goo.gl/maps/833W6zXAMdnThzJEA)
-
-Dijous, 7 de juliol, de 19 a 20:30h, assaig de canalla davant el [Casino de l'Aliança del Poblenou](https://goo.gl/maps/hppH5j6sEMhs5ubz7)
-
-Dijous, 21 de juliol, de 19 a 20:30h, assaig de canalla a la [Plaça de l'Oca](https://goo.gl/maps/RtfR4DyXNdim7z1z7)
-
-A banda, cada dimarts i cada divendres assagem en els següents horaris d’assaig:
+Cada dimarts i cada divendres assagem en els següents horaris d’assaig:
 
 - Dimarts
     - 19h a 20h → Escola de Castells
