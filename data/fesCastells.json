@@ -28,13 +28,13 @@
         },
         "images": {
             "mainImage": {
-                "src": "foto-colla-diada-historica-de-la-merce-2017.webp",
+                "src": "foto-colla-diada-historica-de-la-merce-2022.webp",
                 "width": "1680",
                 "height": "1280",
                 "alt": "La Colla",
                 "imageCaption": {
                     "title": "La Colla",
-                    "description": "Diada Històrica de la Mercè, 2017"
+                    "description": "Diada Històrica de la Mercè, 2022"
                 }
             }
         }
