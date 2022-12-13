@@ -21,6 +21,24 @@
                     "name": "Junta i Tècnica",
                     "route": "/junta-i-tecnica"
                 }
+            ],
+            "newOtherRoutes": [
+                {
+                    "name": "8 de juny de 1969",
+                    "route": "/hiistoria/8-de-juny-de-1969"
+                },
+                {
+                    "name": "52 anys en 52 tuits",
+                    "route": "/hiistoria/52-anys-52-tuits"
+                },
+                {
+                    "name": "Una Colla singular i pionera",
+                    "route": "/hiistoria/una-colla-singular-i-pionera"
+                },
+                {
+                    "name": "Junta i Tècnica",
+                    "route": "/junta-i-tecnica"
+                }
             ]
         },
         "images": {
