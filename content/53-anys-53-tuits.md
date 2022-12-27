@@ -1,4 +1,4 @@
-# 52 anys <span>en 52 tuits</span>
+# 53 anys <span>en 53 tuits</span>
 
 ## 1969 – 1982 
 
@@ -52,7 +52,7 @@
 
 ## 1993 – 2006
 
-### <span>1993.</span> La colla apadrina els Castellers de Sants, una de les vint que apadrinarà durant els seus 52 anys.
+### <span>1993.</span> La colla apadrina els Castellers de Sants, una de les vint que apadrinarà durant els seus 53 anys.
 
 ### <span>1994.</span> S’instaura la diada de la Mercè de les colles locals que va començar amb 2 colles. (El 2020 hi han participat les 8 colles castelleres que ara té la ciutat.)
 
@@ -111,3 +111,5 @@
 ### <span>2020.</span> Primer 7 de 7 femení de la història. La pandèmia atura en sec l'activitat castellera. La Colla es reinventa per mantenir els vincles malgrat el confinament, primer, i les restriccions, després.
 
 ### <span>2021.</span> La Colla s'adapta a la nova situació. Progressivament es va recuperant la normalitat.
+
+### <span>2022.</span> Se superen les expectatives en la primera temporada completa des de la represa. La Colla comença patint per fer castells de 7 i acaba la temporada amb dues torres de 8 amb folre descarregades, intents desmuntats de castells de 9 i els millors assajos des de 2017.
