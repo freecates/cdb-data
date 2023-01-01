@@ -1,11 +1,3 @@
-## Ajuda’ns a tornar els castells de 9 al barri!
-
-Des de 2017, el Clot no veu un castell de 9. Aquest any ens hem marcat l’objectiu de tornar a portar-los a la Plaça Valentí Almirall, però per fer-ho, et necessitem! Per assajar grans castells i dur-los a plaça ens cal una bona pinya, on tothom independentment de l’edat, l’alçada, la condició física... hi té un lloc. És per això que us convidem a venir als assajos especials de Festa Major i a l’actuació de la Festa Major.
-
-- Assajos especials de Festa Major: 4 i 11 de novembre, de 21 a 23:30.
-- Diada de la Festa Major del Clot: 13 de novembre a les 12:00h, Plaça Valentí Almirall.
-
-En acabar tots dos assajos s’oferirà un **pica-pica a tots els assistents** i totes aquelles persones que ens ajudin el dia 11 participaran en el **sorteig de premis** que anunciarem els propers dies!
 ## Vull fer castells: què he de fer?
 
 Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
