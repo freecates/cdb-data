@@ -1,6 +1,6 @@
 ## Vull fer castells: què he de fer?
 
-Vine nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
+Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
 
 Cada dimarts i cada divendres assagem en els següents horaris d’assaig:
 
