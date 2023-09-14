@@ -1,8 +1,6 @@
 ## Vull fer castells: què he de fer?
 
-Aquest divendres serem a la [Plaça del Mercat](https://www.google.com/maps/place/Pla%C3%A7a+del+Mercat,+24,+08018+Barcelona/@41.4079526,2.1864001,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a32680caa5a3:0x3d619029d095c39e!8m2!3d41.4079486!4d2.188975!16s%2Fg%2F11c5ntgx8s?entry=ttu) fent un assaig obert al carrer! Hi serem des de les 20h amb la canalla, i des de les 21h per a totes les edats. Demana pel Pep Lancho o algú de l’equip de nouvinguts i t'explicaran tot el que necessitis per fer-nos un cop de mà.
-
-Sinó, pots venir nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
+Vine nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
 
 Cada dimarts i cada divendres assagem en els següents horaris d’assaig:
 
