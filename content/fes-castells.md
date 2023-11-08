@@ -8,7 +8,7 @@ El diumenge 12 de novembre volem tornar els castells de 9 al barri, on no se'n f
 - Diada de Festa Major del Clot
    - 12h, Pl. Valentí Almirall
 
-I si aquest cap de setmana no pots ser-hi... ja acaba la temporada, però aquí tens la informació per l'any vinen
+I si aquest cap de setmana no pots ser-hi... ja acaba la temporada, però aquí tens la informació per l'any vinent
 
 ## Vull fer castells: què he de fer?
 
