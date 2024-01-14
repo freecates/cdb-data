@@ -1,15 +1,3 @@
-## Tornem els castells de 9 al Clot!
-
-El diumenge 12 de novembre volem tornar els castells de 9 al barri, on no se'n fan des de 2017. La setmana passada ja vam completar-lo a Gràcia, però ara volem tornar-lo al Clot. Per fer-ho necessitem tot el barri amb nosaltres fent pinya! No cal saber-ne de castells ni tenir cap mida ni condició concreta. Us animem a apropar-vos a l'assaig i/o a la diada per fer-nos un cop de mà! Demaneu pel Pep Lancho o algú de l'equip de nouvinguts i us donaran una samarreta per posar-vos a tancar la nostra soca.
-
-- Assaig obert de Festa Major
-   - 21h a 23:30h, carrer Bilbao, 212
-
-- Diada de Festa Major del Clot
-   - 12h, Pl. Valentí Almirall
-
-I si aquest cap de setmana no pots ser-hi... ja acaba la temporada, però aquí tens la informació per l'any vinent
-
 ## Vull fer castells: què he de fer?
 
 Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
