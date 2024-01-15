@@ -2,17 +2,17 @@
     {
         "meta": {
             "pageTitle": "Junta i Tècnica",
-            "title": "Junta i Tècnica 2022",
+            "title": "Junta i Tècnica 2024",
             "pageDescription": "Llista dels membres de la Junta i de la Tècnica dels Castellers de Barcelona"
         },
         "images": {
             "mainImage": {
-                "src": "junta-2022-castellers-de-barcelona.webp",
+                "src": "junta-2024-castellers-de-barcelona.webp",
                 "width": "1680",
-                "height": "773",
-                "alt": "Membres de la Junta 2022 dels Castellers de Barcelona",
+                "height": "947",
+                "alt": "Membres de la Junta 2024 dels Castellers de Barcelona",
                 "imageCaption": {
-                    "title": "Junta 2022",
+                    "title": "Junta 2024",
                     "description": "Castellers de Barcelona"
                 }
             }
@@ -24,57 +24,61 @@
                     "title": "President"
                 },
                 {
-                    "name": "Pau Solé",
+                    "name": "Jordi Lleixà 'Txory'",
                     "title": "Cap de Colla"
                 },
                 {
-                    "name": "Josep Maria Casanella",
-                    "title": "Vicepresidència"
+                    "name": "Maria López",
+                    "title": "Vicepresidència / Comunicació"
                 },
                 {
-                    "name": "Montse Torres",
+                    "name": "Santi Aguilera",
                     "title": "Secretària"
                 },
                 {
-                    "name": "Eduard Solagran",
+                    "name": "Alba Cuevas",
                     "title": "Tresorer"
                 },
                 {
-                    "name": "Aïda Buaro",
-                    "title": "Comunicació"
+                    "name": "Relacions Públiques",
+                    "title": "Jordi Planas"
                 },
                 {
-                    "name": "Carlos Maroño",
+                    "name": "Lorena Villanua",
                     "title": "Àrea Social"
                 },
                 {
-                    "name": "Anna Jorba",
+                    "name": "Ari Martín / Anna Jorba",
                     "title": "Equitat"
+                },
+                {
+                    "name": "Jaume Montolio",
+                    "title": "Local"
                 }
             ],
             "techMembers": [
                 {
-                    "name": "Pau Solé",
+                    "name": "Jordi Lleixà 'Txory'",
                     "title": "Cap de Colla"
                 },
                 {
-                    "name": "Lara Correas",
+                    "name": "Eva Calatayud",
                     "title": "Troncs"
                 },
                 {
-                    "name": "Jordi Planes",
+                    "name": "Gabriel Puig",
                     "title": "Pinyes"
                 },
                 {
-                    "name": "Robert Rosselló",
+                    "name": "Aroa Rué i Anna Paula Monzón",
                     "title": "Canalla"
                 },
                 {
-                    "name": "Marina Meléndez",
+                    "name": "Cinta Lleixà",
                     "title": "Pilars"
                 },
                 {
-                    "name": "Andreu Solagran",
+                    "name": "Sergi Costa i David Garcia",
                     "title": "Gralles i tabals"
                 }
             ]
