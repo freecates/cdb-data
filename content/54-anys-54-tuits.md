@@ -113,3 +113,5 @@
 ### <span>2021.</span> La Colla s'adapta a la nova situació. Progressivament es va recuperant la normalitat.
 
 ### <span>2022.</span> Se superen les expectatives en la primera temporada completa des de la represa. La Colla comença patint per fer castells de 7 i acaba la temporada amb dues torres de 8 amb folre descarregades, intents desmuntats de castells de 9 i els millors assajos des de 2017.
+
+### <span>2023.</span> 6 anys després es recuperen els 9 pisos. A Gràcia i el Clot, la Colla descarrega el 4 de 9 amb folre.
