@@ -1,14 +1,17 @@
 ## Vull fer castells: què he de fer?
 
-Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana pel Pep Lancho** o algú de l’equip de nouvinguts.
+Vine al nostre local en qualsevol dels nostres assajos al **Carrer Bilbao, 212, i demana David 'Curses'** o algú de l’equip de nouvinguts.
 
-Cada dimarts i cada divendres assagem en els següents horaris d’assaig:
+Cada dimarts, dijous i divendres assagem en els següents horaris d’assaig:
 
 - Dimarts
-    - 19h a 20h → Escola de Castells
+    - 19h a 20h → Canalla
     - 20h a 21:45h → Assaig General
+- Dijous
+    -19 a 20h → Escola de Castells 
 - Divendres
-    - 20h a 21h → Canalla + Pilars
+    - 19h a 20h → Pilars
+    - 20h a 21h → Canalla
     - 21h a 23:30h → Assaig General
 
 ## I ja està?
