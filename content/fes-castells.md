@@ -32,7 +32,7 @@ Els castells els fem des dels més petits i petites fins a les persones més gra
 
 ## Jo el que vull és tocar la gralla o el tabal!
 
-Aleshores, fes-te músic a la nostra Colla! Escriu un WhatsApp a l’Andreu Solagran (616 38 10 80) i t’explicarà els horaris d’assaig i el funcionament dels grallers i tabalers de la Colla.
+Aleshores, fes-te músic a la nostra Colla! Escriu un WhatsApp a Sergi Costa (688 89 56 75) i t’explicarà els horaris d’assaig i el funcionament dels grallers i tabalers de la Colla.
 
 ## Encara hi ha alguna cosa que no m’ha quedat clara…
 
